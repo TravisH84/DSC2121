@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root>
+	<imageset
+		url="20141109-DSC_2121_stitch_files/{l}/{c}_{r}.jpg"
+		levels="15"
+		width="11190"
+		height="965"
+		projection="perspective"
+		alphaBlend="0"
+		maxZoom="2.000000"
+		tileWidth="254"
+		tileHeight="254"
+		tileOverlap="1"
+	/>
+</root>
